@@ -8,6 +8,7 @@ class GithubCicdActionsApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//run flow
 	}
 
 }
